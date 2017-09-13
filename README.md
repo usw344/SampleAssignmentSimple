@@ -1,11 +1,11 @@
 Sample Assignment - (Basic Workflow)
 =================
 
-This Sample Assignment will go through the workflow of Processing and GitHub that you will use for your subsequent assignments. 
+This Sample Assignment will go through the workflow of Processing and GitHub that you will use to publish your assignments to GitHub Pages (putting them on the web). Note that this will work out great for simple projects, but we will likely have some projects later in the semester for which this process fails. 
 
 1. Sign up for a free GitHub account if you don’t already have one and sign in to your GitHub account
 
-3. Fork [this repository](https://GitHub.com/APCSLowell/SampleAssignmentSimple). Forking is making a copy of the *repo* (that's short for repository). It's like copying a google doc. Click on the *Fork* button at the top right corner.  
+3. Fork [this repository](https://GitHub.com/APCSLowell/SampleAssignmentSimple). Forking is making a copy of the *repo* (that's short for repository). It's kinda like copying a google doc. Click on the *Fork* button at the top right corner.  
 ![Image 1](/images/SampleAssignmentSimple1.PNG)
 
 4. Click on the SampleAssignmentSimple.pde file  
@@ -14,7 +14,7 @@ This Sample Assignment will go through the workflow of Processing and GitHub tha
 5. Click and drag to select the code on lines 1 through 21. Then press *Ctr + c* to copy the code.  
 ![Image 3](/images/SampleAssignmentSimple3.PNG)
 
-6. Open Processing. On the school computers you can find it in *C:Program Files | Processing-2.2.1*  
+6. Open Processing. 
 ![Image 4](/images/SampleAssignmentSimple4.PNG) 
 
 6. Choose *Edit | Paste* to paste the code into Processing  
@@ -34,4 +34,4 @@ This Sample Assignment will go through the workflow of Processing and GitHub tha
 10. To view your program on the web, click on *Settings*. Scroll down, and you'll find the link to your website.  
 ![Image 9](/images/SampleAssignmentSimple9.PNG)
 
-18. Submit the URL of your finished assignment to the dropbox in school loop
+18. Share the URL with whoever you want!
