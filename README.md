@@ -5,17 +5,16 @@ This Sample Assignment will go through the workflow of Processing and GitHub tha
 
 1. Sign up for a free GitHub account if you don’t already have one and sign in to your GitHub account
 
-3. Fork [this repository](https://GitHub.com/APCSLowell/SampleAssignmentSimple). Forking is making a copy of the *repo* (that's short for repository). It's kinda like copying a google doc. Click on the *Fork* button at the top right corner.  
+2. Fork [this repository](https://GitHub.com/APCSLowell/SampleAssignmentSimple). Forking is making a copy of the *repo* (that's short for repository). It's kinda like copying a google doc. Click on the *Fork* button at the top right corner.  
 ![Image 1](/images/SampleAssignmentSimple1.PNG)
 
-4. Click on the SampleAssignmentSimple.pde file  
+3. Click on the SampleAssignmentSimple.pde file  
 ![Image 2](/images/SampleAssignmentSimple2.PNG)
 
-5. Click and drag to select the code on lines 1 through 21. Then press *Ctr + c* to copy the code.  
+4. Click and drag to select the code on lines 1 through 21. Then press *Ctr + c* to copy the code.  
 ![Image 3](/images/SampleAssignmentSimple3.PNG)
 
-6. Open Processing. 
-![Image 4](/images/SampleAssignmentSimple4.PNG) 
+5. Open Processing. 
 
 6. Choose *Edit | Paste* to paste the code into Processing  
 ![Image 5](/images/SampleAssignmentSimple5.PNG) 
