@@ -1,21 +1,25 @@
-void setup()
-{
-  size(200,100);
+//GOAL: make a 'traffic light' simulator. For now, just have the light 
+// changing according to time. You may want to investigate the millis()
+// function at processing.org/reference.
+
+void setup() {
+  size(600, 600);
 }
-void draw()
-{
-  head();
-  face();
+
+void draw() {
+  background(255);
+  drawOutlineOfLights();
 }
-void head()
-{
-  fill(255,255,0);
-  ellipse(100,50,80,80);
-}
-void face()
-{
-  arc(100,50,60,60,PI/8,7*PI/8);
-  fill(0,0,0);
-  ellipse(85,40,10,15);
-  ellipse(115,40,10,15);
+
+void drawOutlineOfLights() {
+  //box
+  rectMode(CENTER);
+  fill(0);
+  rect(width/2, height/2, 75, 200, 10);
+  
+  //lights
+  fill(255);
+  ellipse(width/2, height/2 - 65, 50, 50); //top
+  ellipse(width/2, height/2, 50, 50); //middle
+  ellipse(width/2, height/2 + 65, 50, 50); //bottom
 }
