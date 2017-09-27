@@ -7,7 +7,7 @@ void setup() {
 }
 
 void draw() {
-  background(255);
+  background(25,56,78);
   drawOutlineOfLights();
 }
 
